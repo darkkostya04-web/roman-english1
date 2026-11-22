@@ -1,4 +1,3 @@
-
 const WORDS = [
 {"en":"hello","uk":"привіт","pron":"хе-ЛОУ"},
 {"en":"goodbye","uk":"до побачення","pron":"ґуд-БАЙ"},
