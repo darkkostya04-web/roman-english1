@@ -1,0 +1,10 @@
+{
+  "name": "Roman English — English 🇺🇸 Українська 🇺🇦",
+  "short_name": "Roman English",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fc",
+  "theme_color": "#2457d6",
+  "lang": "uk",
+  "description": "Вивчай англійські слова з українським перекладом та американською вимовою."
+}
